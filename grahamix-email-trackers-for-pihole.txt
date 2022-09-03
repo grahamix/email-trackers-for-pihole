@@ -1,0 +1,3 @@
+click.email.ancestry.com
+pixel.app.returnpath.net
+^.*\.ct\.sendgrid\.net$
