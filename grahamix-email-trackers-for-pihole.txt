@@ -1,3 +1,4 @@
 click.email.ancestry.com
 pixel.app.returnpath.net
 ca.engagingnetworks.app
+t.tlcollect.com
